@@ -1,3 +1,15 @@
+/**
+ * Author: Prathmesh Rewale
+ * Website: https://prathmeshrewale.com
+ * Email: hello@prathmeshrewale.com
+ * 
+ * Description: Static Invoice generater With PDF Download & Sqlite Database
+ * 
+ * Date Created: 26-12-2024
+ * Last Modified: 26-12-2024
+ */
+
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const PDFDocument = require('pdfkit');
